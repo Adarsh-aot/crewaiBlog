@@ -8,7 +8,7 @@ load_dotenv()
 
 # Access environment variables
 
-api_key = os.getenv("OPENAI_API_KEY")
+api_key = os.getenv("ChatGroq_API_KEY")
 
 
 llm=ChatGroq(temperature=0,
