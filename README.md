@@ -27,7 +27,7 @@ This project demonstrates a content creation workflow using the `crewai` library
 3. Create a `.env` file in the root directory of the project and add your OpenAI API key:
 
     ```plaintext
-    OPENAI_API_KEY=gorq api
+   ChatGroq_API_KEY=gorq api
      ```
 
 
