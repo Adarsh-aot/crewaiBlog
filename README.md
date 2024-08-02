@@ -14,8 +14,8 @@ This project demonstrates a content creation workflow using the `crewai` library
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-repo/content-creation-workflow.git
-    cd content-creation-workflow
+    git clone https://github.com/Adarsh-aot/crewaiBlog.git
+    cd crewaiBlog
     ```
 
 2. Install the required Python packages:
