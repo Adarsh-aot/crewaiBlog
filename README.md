@@ -28,7 +28,7 @@ This project demonstrates a content creation workflow using the `crewai` library
 
     ```plaintext
     OPENAI_API_KEY=gorq api
-        ```
+     ```
 
 
 4. Run app
